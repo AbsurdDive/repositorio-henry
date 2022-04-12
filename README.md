@@ -1,2 +1,2 @@
 # repositorio-henry
-01-git (Exercise)
+01-git (Homework)
